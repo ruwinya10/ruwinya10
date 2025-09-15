@@ -2,9 +2,9 @@
 > Web Development Enthusiast | ruwinyakarunarathna10@gmail.com  
 
 ### Connect with me:
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>](https://linkedin.com/in/ruwinya-karunarathna-b6b4a3384)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" height="30"/>](https://instagram.com/yourprofile)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" height="30"/>](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ruwinya-karunarathna-b6b4a3384)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-skyblue?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
 
 ### I code with
 <div align="center">
