@@ -14,9 +14,12 @@
     <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram" height="50" width="50" />
   </a>
 
-  <a href="https://facebook.com/yourusername" target="_blank" rel="noreferrer">
-  <img src="assets/icons/Facebook.svg" alt="Facebook" height="50" width="50" />
+  <!-- Facebook Icon -->
+<a href="https://facebook.com/yourusername" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" 
+       alt="Facebook" height="50" width="50" />
 </a>
+
 
 
 
