@@ -14,10 +14,10 @@
     <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram" height="50" width="50" />
   </a>
 
-  <!-- Facebook Icon -->
-<a href="https://facebook.com/Ruwinya Karunarathna" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Facebook_logo_(square).png" alt="Facebook" height="50" width="50" />
+  <a href="https://facebook.com/yourusername" target="_blank" rel="noreferrer">
+  <img src="assets/icons/Facebook.svg" alt="Facebook" height="50" width="50" />
 </a>
+
 
 
 
