@@ -1,5 +1,5 @@
 # Ruwinya Karunaratna
-> Web Development Enthusiast | ruwinyakarunarathna10@gmail.com(mailto:ruwinyakarunarathna10@gmail.com)
+> Web Development Enthusiast | ruwinyakarunarathna10@gmail.com
 
 ### Connect with me:
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />](https://linkedin.com/in/yourprofile)
