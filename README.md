@@ -16,7 +16,7 @@
 
   <!-- Facebook Icon -->
 <a href="https://facebook.com/Ruwinya Karunarathna" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Facebook.svg" alt="Facebook" height="50" width="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Facebook_logo_(square).png" alt="Facebook" height="50" width="50" />
 </a>
 
 
