@@ -61,7 +61,6 @@
   <a href="https://xgboost.ai/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logoColor=white" alt="XGBoost" height="50"/></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="50" height="50"/></a>
-  
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" width="50" height="50"/></a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="50" height="50"/>
